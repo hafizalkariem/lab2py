@@ -1,2 +1,1 @@
-# lab2py 
-agung nugroho dosen terjujur
+# lab2py
